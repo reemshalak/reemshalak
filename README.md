@@ -14,9 +14,8 @@
 
 - 👨‍💻 Check out my [effects](https://instagram.com/reemshalak/) on Instagram 
 
-- 💬 Ask me about **Augmented Reality**
+- 💬 Ask me about **Extended Reality**
 
-- 📫 DM for collaborations
 
 
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/floatinglap.gif" align="center" height="75px" width="75px"/> Languages and Tools:</h3>
@@ -33,6 +32,5 @@
 
 </div>
 
-![snake gif](https://github.com/rch20/rch20/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
  <a href="https://www.buymeacoffee.com/reemshalak"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><img src="https://github.com/rch20/rch20/blob/main/assets/cofeee.gif" style="max-width:100%" align="center" height="100px" width="100px"/> </div>
