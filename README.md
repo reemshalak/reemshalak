@@ -12,8 +12,6 @@
 
 <img src="https://github.com/rch20/rch20/blob/main/assets/codergirl2.gif" align="right"  height="250px" width="400px"/> 
 
-- 👨‍💻 Check out my [effects](https://instagram.com/reemshalak/) on Instagram 
-
 - 💬 Ask me about **Extended Reality**
 
 
