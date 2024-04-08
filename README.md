@@ -5,7 +5,7 @@
  <h1 align="center">Hello , I'm Reem 👋 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=EF90B0&center=true&vCenter=true&lines=I'm+a+Creative+Developer;I'm+a+Certified+Ethical+Hacker;An+XR+Creator;A+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=EF90B0&center=true&vCenter=true&lines=I'm+a+Creative+Technologist;I'm+a+Certified+Ethical+Hacker;An+XR+Creator;A+Software+Developer)](https://git.io/typing-svg)
 
 
 <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/sparkles.gif" align="center" height="25px" width="25px"/>   About me:</h3>
@@ -32,5 +32,3 @@
 
 </div>
 
-<div align="center">
- <a href="https://www.buymeacoffee.com/reemshalak"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><img src="https://github.com/rch20/rch20/blob/main/assets/cofeee.gif" style="max-width:100%" align="center" height="100px" width="100px"/> </div>
