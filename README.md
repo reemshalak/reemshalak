@@ -45,8 +45,7 @@
 <h2>🐍 Contributions 🐍</h2>
 <br>
  <picture>
-<img alt="github-snake" src="https://raw.githubusercontent.com/reemshalak/reemshalak/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/reemshalak/reemshalak/output/github-contribution-grid-snake.svg" /></picture>
 </div>
 <!-- <hr/>
  <h2 align="center">⚡ Stats ⚡</h2> 
