@@ -29,8 +29,8 @@
 <!--  <h3 align="left"><img src="https://github.com/rch20/rch20/blob/main/assets/message.gif" style="max-width:100%" height="25px" align="center" width="25px"/> Connect with me:</h3>
  -->
 <!-- <a href="https://www.instagram.com/reemshalak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/reem-chalak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-</div>
+<!-- <a href="https://www.linkedin.com/in/reem-chalak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+</div> -->
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  <!-- <img src="https://github.com/rch20/rch20/blob/main/assets/floatinglap.gif" align="center" height="75px" width="75px"/> -->
 <br/>
