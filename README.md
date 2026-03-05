@@ -19,7 +19,7 @@
 💬 Ask me about **Extended Reality** 👀
 
  
-🧠 I’m currently learning WebXR,AR/VR on **Unity , A-Frame , PlayCanvas**
+🧠 I’m currently making XR Experiences on **Unity,Snapchat,Tiktok!**
 
 
 💞 <i> Creativity is Intelligence having fun </i> 💞
